@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "threads_social_network_app"
